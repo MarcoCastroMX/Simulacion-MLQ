@@ -1,0 +1,10 @@
+C:\Users\marco\OneDrive\Escritorio\Colas_Multiples\bin\Debug\Colas_Multiples.exe.config
+C:\Users\marco\OneDrive\Escritorio\Colas_Multiples\bin\Debug\Colas_Multiples.exe
+C:\Users\marco\OneDrive\Escritorio\Colas_Multiples\bin\Debug\Colas_Multiples.pdb
+C:\Users\marco\OneDrive\Escritorio\Colas_Multiples\obj\Debug\Colas_Multiples.csprojAssemblyReference.cache
+C:\Users\marco\OneDrive\Escritorio\Colas_Multiples\obj\Debug\Colas_Multiples.Form1.resources
+C:\Users\marco\OneDrive\Escritorio\Colas_Multiples\obj\Debug\Colas_Multiples.Properties.Resources.resources
+C:\Users\marco\OneDrive\Escritorio\Colas_Multiples\obj\Debug\Colas_Multiples.csproj.GenerateResource.cache
+C:\Users\marco\OneDrive\Escritorio\Colas_Multiples\obj\Debug\Colas_Multiples.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Escritorio\Colas_Multiples\obj\Debug\Colas_Multiples.exe
+C:\Users\marco\OneDrive\Escritorio\Colas_Multiples\obj\Debug\Colas_Multiples.pdb
